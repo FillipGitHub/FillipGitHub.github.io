@@ -3,9 +3,25 @@
     <channel>
         <title></title>
         <description>This is Fillibee Blog</description>
-        <link>https://fillip89.github.io</link>
-        <atom:link href="https://fillip89.github.io/feed.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate></lastBuildDate>
+        <link>https://fillipgithub.github.io</link>
+        <atom:link href="https://fillipgithub.github.io/feed.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Fri, 15 Feb 2019 00:00:00 +0900</lastBuildDate>
+        
+        <item>
+            <title>롯데월드 매직패스 솔직 후기. 깜놀</title>
+            
+            
+            <description>&lt;h2 id=&quot;롯데월드-매직패스&quot;&gt;롯데월드 매직패스&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;롯데월드&lt;/code&gt;에 다녀왔어요. 세상 어릴때 가보고 와본적이 없어서ㅋㅋ 오랜만에 놀러오니까 동심이 없어서인지 놀이공원이 엄청 작게 느껴졌네요.. 아무쪼록 &lt;code class=&quot;highlighter-rouge&quot;&gt;자유이용권&lt;/code&gt;을 끊고 입장을 해서 놀이기구 웨이팅을 하고있는데. &lt;code class=&quot;highlighter-rouge&quot;&gt;매직패스&lt;/code&gt;가 새로생겨서 몇몇 사람들이 기다리지도않고 바로 놀이기구 입장을 하더군요.&lt;/p&gt;
+
+</description>
+            
+            <pubDate>Fri, 15 Feb 2019 00:00:00 +0900</pubDate>
+            <link>https://fillipgithub.github.io/posts/2019/02/15/@myFirstPosting.html</link>
+            <guid isPermaLink="true">https://fillipgithub.github.io/posts/2019/02/15/@myFirstPosting.html</guid>
+        </item>
         
     </channel>
 </rss>
